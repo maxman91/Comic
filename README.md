@@ -12,6 +12,7 @@ A social media web app made for sharing digital comics.
 
 ## Usage
 - run on xampp
+- rename htaccess file to .htaccess
 - import comic.sql file into mysql
 - login using username:test password:test1 
 - can create your own account by enabling mail() function, or by inserting null into active column from users table.
